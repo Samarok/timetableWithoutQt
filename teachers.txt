@@ -1,0 +1,6 @@
+Ivanov I.I., Mathematics, Physics
+Sidorov S.S., Physics, Mathematics
+Petrov P.P., Programming, Economics
+Kuznetsov K.K., Literature, Russian
+Zaitsev Z.Z., Geography, Social Studies, History
+Streltsov S.S., English, Chinese

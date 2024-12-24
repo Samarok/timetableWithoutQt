@@ -1,0 +1,2 @@
+Group A, Mathematics, Mathematics, Mathematics, Mathematics, Physics, Physics, Russian, Russian, Literature, Geography, Social Studies, History, Programming, Programming, Economics, English, Chinese
+Group B, Mathematics, Mathematics, Mathematics, Physics, Physics, Russian, Russian, Literature, Geography, Geography, Social Studies, History, Programming, Programming, Economics, English, Chinese, English, Chinese, Russian, Russian, Literature
